@@ -1,0 +1,17 @@
+*.pyc
+*.DS_Store
+.coverage
+.tox
+*~
+docs/_build
+*.egg-info
+*.egg
+dist
+build
+env
+
+# Editors
+.idea
+
+
+
